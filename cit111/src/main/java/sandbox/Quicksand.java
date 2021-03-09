@@ -13,15 +13,20 @@ public class Quicksand {
     public static void main(String[] args) {
        // System.out.println("Hey, you're in quicksand!");
         
-        boolean hasWeapons = false;
+        /*boolean hasWeapons = false;
         boolean hasBoardingPass = true;
         int heartRate = 58;
         // not have weapons, but has boarding pass & heart rate under 60
         
         if(!hasWeapons && hasBoardingPass && heartRate < 60){
             System.out.println("Successfully passed TSA screen!");
+        */
+        String textA = "toast";
+        String textB = "burnt";
+        boolean areStringsEqual = textA.equals(textB);
+        System.out.println(areStringsEqual);
         }
 
         
     }
-}
+

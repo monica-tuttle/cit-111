@@ -31,9 +31,9 @@ public class Friends {
         // Queston 1
         System.out.println("On the spectrum from carnivore to vegan, what do you eat?");
         System.out.println("1. Carnivore/meat-lover: 'Vegetables are my kryptonite! Unless by 'veggies' you mean potato chips...'");
-        System.out.println("2. Omnivore: 'I eat a balance of animals and plants'");
-        System.out.println("3. Vegetarian - I eat mostly veggies and fruits, but I do still eat eggs and dairy");
-        System.out.println("4. Vegan - I eat solely legumes, nuts, fruits, and veggies! And NO animals or animal by-products here.");
+        System.out.println("2. Omnivore: 'I eat a mixture of animals and plant-based foods'");
+        System.out.println("3. Vegetarian - I eat mostly plant-based foods, but I do still eat eggs and dairy");
+        System.out.println("4. Vegan -  Solely plant-based foods; NO animals or animal by-products.");
         //
         int userResponse = scan.nextInt();
         switch(userResponse) {

@@ -8,7 +8,7 @@ package week4;
 import java.util.Scanner;
 
 /**
- *
+ *A program that computes friendship compatibility
  * @author Monica Tuttle
  */
 public class FriendswithStringInput {
